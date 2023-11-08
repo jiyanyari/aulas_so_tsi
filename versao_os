@@ -1,0 +1,6 @@
+# Versão sistema operacional em Python
+import os
+
+print ()
+print ("o meu sistema operacional é:", os.name)
+print ()1
